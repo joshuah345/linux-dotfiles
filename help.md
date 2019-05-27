@@ -14,7 +14,7 @@
     * `~/.config/i3/config` - [i3 (window manager)](https://github.com/i3/i3) config file
     * ` ~/.config/dunst/dunstrc` - [dunst (notification daemon)](https://github.com/dunst-project/dunst) config file
     * `~/.config/polybar/x` - [polybar](https://github.com/polybar/polybar) config file (x can be any filename you like)
-    * `~/.config/cava/config - config file for !cava](https://github.com/karlstav/cava)
+    * `~/.config/cava/config` - config file for !cava](https://github.com/karlstav/cava)
   
 * `~/.fonts` is one of the locations where user (manually) installed fonts are stored.
 
