@@ -4,7 +4,10 @@
  
 </h1>
 <h3 align="center">Dotfiles. Now organized.</h3>
-
+ 
+ 
+### View ![help.md](https://github.com/joshuah345/linux-dotfiles/help.md) for info on how to use these files 
+ 
 
 # Previews
 
