@@ -159,3 +159,13 @@ exec --no-startup-id compton
 exec --no-startup-id feh --bg-fill ~/Pictures/Pictures/Walls/ane.jpg 
 exec --no-startup-id dunst
 exec_always --no-startup-id /home/joshua/i3bar.sh
+
+
+# Pulse Audio controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
+
+# Sreen brightness controls
+bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
+bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
