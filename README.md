@@ -11,6 +11,10 @@
 
 # Previews
 
+## (NEW!!!) Milky Waterway
+![Milkyway](./images/Milkyway.png) <br />
+<b>NEW!!</b> [on r/unixporn](https://www.reddit.com/r/unixporn/comments/bvcs2x/i3_milky_waterway_superuser1958/)
+
 ## Aenami-i3
 ![Aenami-i3](./images/Aenami-i3.png) <br />
 [r/unixporn link](https://www.reddit.com/r/unixporn/comments/bt4dcp/i3_aenami_2/)
