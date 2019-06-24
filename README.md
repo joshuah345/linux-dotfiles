@@ -11,9 +11,13 @@
 
 # Previews
 
-## (NEW!!!) Limitless Ocean
+## (new!) Equal and Opposite
+![screenshot](./images/eo.png)<br />
+[on unixporn](https://www.reddit.com/r/unixporn/comments/c4fy9v/xfceopenbox_equal_and_opposite_superuser1958/)
+
+##  Limitless Ocean
 ![limitless](./images/Limitless.png)<br />
-<b>NEW!!</b> [on r/unixporn](https://www.reddit.com/r/unixporn/comments/c1ye26/xfce_limitless_ocean_superuser1958/)
+ [on r/unixporn](https://www.reddit.com/r/unixporn/comments/c1ye26/xfce_limitless_ocean_superuser1958/)
 
 ## Forest Green
 ![forestgreen](./images/Forestgreen.png) <br />
