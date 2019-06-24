@@ -1,0 +1,38 @@
+rofi.modi:                           window,run,drun
+rofi.width:                          35
+rofi.lines:                          50
+rofi.columns:                        1
+rofi.padding:                        120
+rofi.font:                           Muli 10
+rofi.color-normal:                   argb:00000099, #D4d4d4, argb:00000099, argb:4CD75656,#FFFFFF
+rofi.color-urgent:                   argb:00000000, #D75656, argb:00000000, #FFFFFF, #FFFFFF
+rofi.color-active:                   #000000, #6A8554, #000000, argb:4CFFFFFF, #FFF
+rofi.color-window:                   argb:aa2f343f, #FFF, argb:22D75656
+rofi.fullscreen: 		     true
+
+rofi.bw:                             0
+rofi.br: 5
+rofi.location:                       0
+
+
+rofi.fixed-num-lines:                false
+rofi.terminal:                       kitty
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
+rofi.run-command:                    {cmd}
+rofi.parse-hosts:                    true
+rofi.matching:                       normal
+rofi.separator-style:                solid
+rofi.scrollbar-width:                2
+rofi.kb-mode-next:                   Shift+Right,Control+Tab,Alt+l,bracketright,
+rofi.kb-mode-previous:               Shift+Left,Control+Shift+Tab,Alt+h,bracketleft,
+rofi.kb-row-up:                      Up,Control+p,Shift+Tab,Shift+ISO_Left_Tab,Alt+k
+rofi.kb-row-down:                    Down,Control+n,Alt+j
+rofi.display-window:                 Currently Open
+rofi.display-run:                    Execute
+rofi.display-drun:                   Applications
+rofi.eh:                             1
+rofi.line-margin:                    2
+rofi.line-padding:                   3
+rofi.opacity: 100
+
