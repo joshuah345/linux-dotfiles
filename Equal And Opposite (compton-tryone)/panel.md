@@ -70,7 +70,8 @@ Icon go-next (breeze-icons)<br>
 no items <br>
 place behind panel 1 <br>
 alpha: 55 <br>
-solid color: `#2b2e37`
-
+solid color: `#2b2e37`<br>
+Length: 90 <br>
+Autohide: intelligent
 
 
