@@ -11,6 +11,11 @@
 
 # Previews
 
+## (new!) Rosebush 
+![rosebush](./images/rosebush.png) <br>
+[on unixporn](https://www.reddit.com/r/unixporn/comments/c64h07/i3_rose_bushes_superuser1958/)
+
+
 ## (new!) Equal and Opposite
 ![screenshot](./images/eo.png)<br />
 [on unixporn](https://www.reddit.com/r/unixporn/comments/c4fy9v/xfceopenbox_equal_and_opposite_superuser1958/) - refer to [panel.md](https://github.com/joshuah345/linux-dotfiles/blob/master/Equal%20And%20Opposite%20(compton-tryone)/panel.md) for more info on how to remake these panels.
