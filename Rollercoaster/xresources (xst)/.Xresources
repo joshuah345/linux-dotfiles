@@ -1,0 +1,21 @@
+#include "/home/joshua/.stx"
+
+
+st.foreground:   #b4acb4
+st.background:   #0F0F0F
+st.color0:       #0F0F0F
+st.color1:       #973b53
+st.color2:       #335051
+st.color3:       #97753b
+st.color4:       #3b6a97
+st.color5:       #996b87
+st.color6:       #3b9791
+st.color7:       #c9c0c9
+st.color8:       #262626
+st.color9:       #c54d6c
+st.color10:      #487173
+st.color11:      #af8744
+st.color12:      #4880b7
+st.color13:      #b294bb
+st.color14:      #45b0a9
+st.color15:      #e2d8e2
