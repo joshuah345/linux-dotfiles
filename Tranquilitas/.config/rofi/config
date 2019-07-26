@@ -1,0 +1,47 @@
+rofi.modi:                           window,run,drun
+rofi.width:                          25
+rofi.lines:                          18
+rofi.columns:                        1
+rofi.padding:                        25
+rofi.font:                           Avenir Next LT Pro Book 11
+
+rofi.color-normal:                   	#00000000, #e8e1df, #00000000, #05e8e1df, #a25f46
+! State:                                   'bg',    'fg',    'bgalt',    'hlbg',   'hlfg'
+
+rofi.color-urgent:                   	#00000000, #b69e6d, #00000000, #05e8e1df, #b69e6d
+
+rofi.color-active:                      #00000000, #345b6d, #00000000, #05e8e1df, #345b6d
+
+rofi.color-window:                  #272725, #a25f46, #a25f46
+!                                  'background', 'border', 'separator'
+rofi.fullscreen: 		     false
+
+rofi.bw:                             0
+!rofi.br: 3
+rofi.location:                       0
+
+
+rofi.fixed-num-lines:                true
+rofi.terminal:                       xst
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
+rofi.run-command:                    {cmd}
+rofi.parse-hosts:                    true
+rofi.matching:                       normal
+rofi.separator-style:                solid
+rofi.scrollbar-width:                3
+rofi.kb-mode-next:                   Shift+Right,Control+Tab,Alt+l,bracketright,
+rofi.kb-mode-previous:               Shift+Left,Control+Shift+Tab,Alt+h,bracketleft,
+rofi.kb-row-up:                      Up,Control+p,Shift+Tab,Shift+ISO_Left_Tab,Alt+k
+rofi.kb-row-down:                    Down,Control+n,Alt+j
+rofi.display-window:                 Windows
+rofi.display-run:                    Execute
+rofi.display-drun:                   Launch
+rofi.drun-display-format: {name}
+rofi.eh:                             1
+rofi.line-margin:                    2
+rofi.line-padding:                   2
+rofi.opacity: 100
+
+rofi.xoffset: -507
+rofi.yoffset: 115

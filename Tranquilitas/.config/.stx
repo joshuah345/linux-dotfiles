@@ -1,0 +1,33 @@
+! These are all possible options, presented with default values.
+! xst will fallback to *.option if st.option is not present.
+! see src/config.h for more information about option meanings.
+
+! These options only take effect on startup.
+st.termname:     xterm-256color
+! The following options options can be reloaded via USR1 signal.
+st.font:        Misc Ohsnap:pixelsize=10;
+st.borderpx:         10
+! Available cursor values: 2 4 67 = █ _ | ☃ 1 3 5 are blinking versions)
+st.cursorshape:       !thickness of underline and bar cursors
+st.cursorthickness:   2
+! 0: normal blinking, 1: leave cursor border and blink with cursor's background
+st.cursorblinkstyle:  1
+! 0: cursor blinks with at constant interval; 1: blinking cycle resets on key input
+st.cursorblinkontype: 1
+st.bold_font:         0
+st.xfps:              60
+st.actionfps:         120
+! Amount of lines scrolled
+st.mouseScrollLines:  1
+! Kerning / character bounding-box height multiplier
+st.chscale:           1
+! Kerning / character bounding-box width multiplier
+st.cwscale:           1.0
+! blinking timeout for terminal and cursor blinking (0 disables)
+st.blinktimeout:     800
+! this is a char that is exposed like so: `printf '\033[z'`
+st.prompt_char:       $
+! This option is can be preedit style. Available values: `root` `overthespot` (Default taken `root`)
+st.imstyle:           root
+! opacity==255 means what terminal will be not transparent, 0 - fully transparent
+st.opacity:      255
