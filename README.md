@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/joshuah345/linux-dotfiles" ><img src="./images/usrimg" alt="Superuser" height="500" width="500"></a>
+  <a href="https://github.com/joshuah345/linux-dotfiles" ><img src="./images/usrimg" alt="Superuser" height="300" width="300"></a>
   <br>
  
 </h1>
