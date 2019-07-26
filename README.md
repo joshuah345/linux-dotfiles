@@ -11,7 +11,11 @@
 
 # Previews
 
-## (new) Doujin
+## (new) Tranquilitas
+![tranquilitas preview](./images/tranquilitas.png) <br>
+[unixporn](https://www.reddit.com/r/unixporn/comments/ci7cud/xfce_tranquilitas/)
+
+## Doujin
 ![rollercoaster](./images/doujin.png) <br>
 [on unixporn](https://www.reddit.com/r/unixporn/comments/cfmf5s/i3_doujin/)
 
